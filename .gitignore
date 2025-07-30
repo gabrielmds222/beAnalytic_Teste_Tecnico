@@ -1,0 +1,14 @@
+# Dados do banco
+pgdata/
+
+# Variáveis de ambiente
+.env
+
+# Outros comuns
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+*.swp
